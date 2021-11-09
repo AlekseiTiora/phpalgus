@@ -46,7 +46,7 @@ echo "Kui esimene arv jagame teise arvuga, siis vastus on "
 <p>Tee tsükliga 20 "checkboxi". Pane neile kõigile oma nimi stiilis box[1], box[2], jne.<br>
     Tee tsükliga 20 "teksti lahtrit". Pane neile kõigile oma nimi stiilis cell[1], cell[2], jne.<br>
     Tee tsükliga 20 "radio buttonit". Pane neile kõigile üks nimi "radio" ja erinevad väärtused stiilis value1, value2 jne.</p>
-<a href="402/"> Ülesanne 402</a>
+<a href="haridused/402.php"> Ülesanne 402</a>
 
 <p>================================</p><br>
 <h2><b>Ülesanne 403</b></h2><br>
@@ -55,7 +55,7 @@ echo "Kui esimene arv jagame teise arvuga, siis vastus on "
     Leia ilusad värvi nimed siit: http://www.w3schools.com/colors/colors_names.asp<br>
     Kuva tsükliga välja värvuste nimed ja värvi need sama värvi nt. <br>
     &#60; span style='color: cyan' &#62; cyan - sinine taevas &#60; /span &#62;</p>
-
+<a href="haridused/403.php"> Ülesanne 403</a>
 
 
 <p>================================</p><br>
