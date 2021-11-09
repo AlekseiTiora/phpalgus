@@ -21,11 +21,12 @@ $data=[
 <!--massiiv array funktsiooniga-->
 <h1>Ülesanne 401/var2 -array()</h1>
 <?php
-$array= array("Aleksei Tiora", "Vasalemma, kivi 4b","ab.png","tiora20.thkit.ee");
-echo "<b>Nimi:".$array[0]."</b><br>";
-echo "<i>aadress:".$array[1]."</i><br>";
-echo "<img src='$array[2]' alt='pildike>";
-
+// massiiv array funktsiooniga
+$array=array("Aleksei Tiora", "Vasalemma, kivi 4b",
+    "ab.png", "tiora20.thkit.ee");
+echo "<b>Nimi: ".$array[0]."</b><br>";
+echo "<i>Aadress: ".$array[1]."</i><br>";
+echo "<img src='$array[2]' alt='pildike'>";
 echo "<br><a href='https://$array[3]'>Koduleht</a>"
 ?>
 
