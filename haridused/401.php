@@ -6,6 +6,7 @@ $data=[
     "pilt"=>"ab.png",
     "koduleht"=>"https://tiora20.thkit.ee"
 ];
+//
 ?>
 <a href="../test.php">tagasi..Ülesanne leht</a>
 <h1>Ülesanne 401</h1>
