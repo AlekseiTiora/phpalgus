@@ -65,6 +65,7 @@ echo "Kui esimene arv jagame teise arvuga, siis vastus on "
     Korrutustabel peab olema HTML tabeli sees.<br>
     Korrutustabelis peab olema esimesel real ja veerul numbrid 1-10. <br>
     Teisel real esimese rea ja veeru korrustis jne.</p>
+<a href="haridused/405.php"> Ülesanne 405</a>
 <footer>
     <?php
     echo 'Tänane kuupäev '.date("d.m.Y");
