@@ -16,7 +16,6 @@
 <a href="../test.php">tagasi..Ülesanne leht</a>
 <h1>Ülesanne 405- Korrutustabel 2 tsükliga</h1>
 <?php
-//
 echo "<table>";
     for($i=1; $i<=10; $i++) {
         echo "<tr> ";
